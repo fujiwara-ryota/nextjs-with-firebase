@@ -15,7 +15,7 @@ Next.js自体はサーバーサイドレンダリングもできますが、Reac
 
 1. Firebaseにプロジェクト作成
 2. Next.jsで静的ファイル書き出し
-3. Firebase Storageにデプロイ
+3. Firebase Hostingにデプロイ
 4. 以降 2-3をループ
 
 
